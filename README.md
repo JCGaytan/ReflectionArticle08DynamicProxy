@@ -1,4 +1,4 @@
-# ReflectionArticle08DynamicProxy
+# Dynamic Proxy Generation in .NET - Explained with Code
 
 ## English
 
